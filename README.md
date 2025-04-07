@@ -340,6 +340,50 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
 </div>
 
 
+<!-- Stats -->
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.classic.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.terminal.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
 <!-- Seção de Leituras Atuais -->
 <div align="center">
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Leituras atuais:
