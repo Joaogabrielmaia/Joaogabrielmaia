@@ -330,6 +330,9 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
         <img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Joaogabrielmaia"/>
       </td>
       <td align="center" width="200px">
+        <a href="https://wakatime.com/@jgmcosta"><img src="https://wakatime.com/badge/user/288ad758-ee3a-4e8f-a867-f67bc2d62980.svg" alt="Total time coded since Apr 7 2025" /></a>
+      </td>     
+      <td align="center" width="200px">
         <img width="150" alt="Followers" src="https://img.shields.io/github/followers/Joaogabrielmaia?style=social"/>
       </td>
       <td align="center" width="200px">
