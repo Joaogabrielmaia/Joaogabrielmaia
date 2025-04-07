@@ -103,136 +103,146 @@ meu foco é seguir como arquiteto de software, unindo minha experiência com des
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
-
-</div>
-
-<div align="center">
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
-
-<div align="center"> <table> <tr> <td align="center"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" width="40" height="40" /> <br/>Python </a> </td> <td align="center"> <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" width="40" height="40" /> <br/>Java </a> </td> <td align="center"> <a href="https://openjfx.io/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true" height="40" /> <br/>JavaFX </a> </td> <td align="center"> <a href="https://spring.io/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true" width="40" height="40" /> <br/>Spring Boot </a> </td> <td align="center"> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg?raw=true" width="40" height="40" /> <br/>HTML </a> </td> <td align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true" width="40" height="40" /> <br/>CSS </a> </td> <td align="center"> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true" width="40" height="40" /> <br/>JavaScript </a> </td> <td align="center"> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/react.png?raw=true" width="40" height="40" /> <br/>React.js </a> </td> <td align="center"> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true" width="40" height="40" /> <br/>Node.js </a> </td> </tr> </table> </div>
-
 </div>
 
 <br></br>
 
+<!-- Seção de Ligugens e Ferramentas-->
+
 <div align="center">
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Ferramentas:
-
-<div align="center"> <table> <tr> <td align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true" width="40" height="40" /> <br/>MySQL </a> </td> <td align="center"> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postgresql.png?raw=true" width="40" height="40" /> <br/>PostgreSQL </a> </td> <td align="center"> <a href="https://www.mongodb.com/pt-br" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mongodb.png?raw=true" width="40" height="40" /> <br/>MongoDB </a> </td> <td align="center"> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postman.png?raw=true" width="40" height="40" /> <br/>Postman </a> </td> <td align="center"> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png?raw=true" width="40" height="40" /> <br/>Git </a> </td> <td align="center"> <a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true" width="40" height="40" /> <br/>Eclipse </a> </td> <td align="center"> <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/netbeans.png?raw=true" width="40" height="40" /> <br/>NetBeans </a> </td> <td align="center"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true" width="40" height="40" /> <br/>VS Code </a> </td> <td align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true" width="40" height="40" /> <br/>IntelliJ </a> </td> </tr> </table> </div>
-
-<div>
-
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e Ferramentas:
 <br></br>
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/handshake2.gif?raw=true"/>&nbsp; Meus Certificados:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://www.pucminas.br/" target="_blank">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKe6AEffgJMyoOMlO-5-iChimIAsi3Vn5-A&s" width="110" height="110"><br/>
-          <strong>PUC Minas</strong>
-        </a><br/><br/>
-      </td>
-          <td align="center" width="200">
-        <a href="https://www.udemy.com/" target="_blank">
-          <img src="https://dl.memuplay.com/new_market/img/com.udemy.android.icon.2023-11-25-11-28-13.png" width="110" height="110"><br/>
-          <strong>Udemy</strong>
-        </a><br/><br/>
-      </td>
-<td align="center" width="200">
-        <a href="https://www.alura.com.br/" target="_blank">
-          <img src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4" width="110" height="110"><br/>
-          <strong>Alura</strong>
-        </a><br/><br/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-
-  
-<div>
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Leituras atuais:
-<br></br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <img src="https://m.media-amazon.com/images/I/61E6iqKxU+L.jpg" width="160" height="240"/><br/><br/>
-        <strong>Engenharia de Software Moderna</strong><br/>
-        <em>Marco Túlio Valente</em>
-      </td>
-      <td align="center" width="220">
-        <img src="https://m.media-amazon.com/images/I/61TTIqA77QL._AC_UF1000,1000_QL80_.jpg" width="160" height="240"/><br/><br/>
-        <strong>O Programador Pragmático</strong><br/>
-        <em>Andrew Hunt & David Thomas</em>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <p>📚 Todas as leituras acima possuem resenhas escritas por mim disponíveis no repositório acima.</p>
-    <br/><br/>
-  <a href="https://github.com/resenhas" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20minhas%20resenhas-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br></br>
-
-<div>
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>Movimentação GitHub:
-
-<div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
+<td valign="top">
+
+#### Linguagens
+
+| | | |
+|-|-|-|
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" width="40"> <br> Python](https://www.python.org/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" width="40"> <br> Java](https://www.java.com/pt-BR/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true" height="40"> <br> JavaFX](https://openjfx.io/) |
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true" width="40"> <br> Spring Boot](https://spring.io/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg?raw=true" width="40"> <br> HTML](https://www.w3schools.com/html/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true" width="40"> <br> CSS](https://www.w3schools.com/css/) |
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true" width="40"> <br> JavaScript](https://www.w3schools.com/js/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/react.png?raw=true" width="40"> <br> React.js](https://pt-br.reactjs.org/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true" width="40"> <br> Node.js](https://nodejs.org/en/) |
+</td>
+<td width="50"></td>
+<td valign="top">
+
+#### Ferramentas
+
+| | | |
+|-|-|-|
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true" width="40"> <br> MySQL](https://www.mysql.com/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postgresql.png?raw=true" width="40"> <br> PostgreSQL](https://www.postgresql.org/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mongodb.png?raw=true" width="40"> <br> MongoDB](https://www.mongodb.com/pt-br) |
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postman.png?raw=true" width="40"> <br> Postman](https://www.postman.com/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png?raw=true" width="40"> <br> Git](https://git-scm.com/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true" width="40"> <br> Eclipse](https://www.eclipse.org/downloads/) |
+| [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/netbeans.png?raw=true" width="40"> <br> NetBeans](https://netbeans.apache.org/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true" width="40"> <br> VS Code](https://code.visualstudio.com/) | [<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true" width="40"> <br> IntelliJ](https://www.jetbrains.com/idea/) |
+</td>
+</tr>
+</table>
+</div>
+
+<br></br>
+
+<!-- Seção de Projetos -->
+
+<div align="center">
+Alguns dos meus Projetos:
+<br></br>
+<table>
+<tr>
+<td align="center" colspan="3"></td>
+</tr>
+<tr>
+<td align="center"><a href="" target="_blank"><img align="center"  src="https://maxrentcar.com.br/img/demo/sitereserva.png"/></a></td>
+<td align="center"><a href="" target="_blank"><img align="center"  src="https://img.freepik.com/free-vector/user-panel-business-dashboard_23-2148359901.jpg"/></a></td>
+<td align="center"><a href="" target="_blank"><img align="center"  src="https://img.freepik.com/psd-premium/ui-de-aplicativo-movel-de-entrega-de-comida-de-restaurante_279025-5.jpg"/></a></td>
+</tr>
+<tr>
+<td align="center">:movie_camera: <a href="" target="_blank">Tô de Carro</a></td>
+<td align="center">:movie_camera: <a href="" target="_blank">ERP Vortex</a></td>
+<td align="center">:movie_camera: <a href="" target="_blank">Restaurante Apetito</a></td>
+</tr>
+<tr>
+<td align="center" colspan="3"></td>
 </tr> 
+</table>
+</div>
+
+<br></br>
+
+<!-- Seção de Certificados -->
+
+<div align="center">
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/handshake2.gif?raw=true"/>&nbsp; Meus Certificados:
+<br></br>
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://www.pucminas.br/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKe6AEffgJMyoOMlO-5-iChimIAsi3Vn5-A&s" width="110" height="110"><br/>
+<strong>PUC Minas</strong>
+</a><br/><br/>
+</td>
+<td align="center" width="200">
+<a href="https://www.udemy.com/" target="_blank">
+<img src="https://dl.memuplay.com/new_market/img/com.udemy.android.icon.2023-11-25-11-28-13.png" width="110" height="110"><br/>
+<strong>Udemy</strong>
+</a><br/><br/>
+</td>
+<td align="center" width="200">
+<a href="https://www.alura.com.br/" target="_blank">
+<img src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4" width="110" height="110"><br/>
+<strong>Alura</strong>
+</a><br/><br/>
+</td>
+</tr>
+</table>
+<br></br>
+</div>
+
+<!-- 📊 Seção de Atividade no GitHub -->
+<div align="center">
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />
+Movimentação no GitHub:
+<br></br>
+
+<div align="center">
+<!-- Tabela com estatísticas principais -->
+<table>
 <tr>
 <td>
+<!-- Estatísticas gerais -->
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Joaogabrielmaia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=algolia&locale=pt-br&card_width=480"/>
 </td>
 <td>
+<!-- Linguagens mais usadas -->
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogabrielmaia&theme=algolia&locale=pt-br&langs_count=7"/>
 </td>
 <td>
+<!-- Distribuição em gráfico de pizza -->
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogabrielmaia&layout=pie&theme=algolia&locale=pt-br"/>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
 </table>
+
+<!-- Links para GitHub Wrapped e WakaTime -->
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/Joaogabrielmaia" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@Joaogabrielmaia">WakaTime</a></td>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/Joaogabrielmaia" target="_blank">GitHub Wrapped</a></td>
+<td align="center">:watch: <a href="https://wakatime.com/@Joaogabrielmaia">WakaTime</a></td>
 </tr>
 <tr>
 <td>
+<!-- Tendências de repositórios -->
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Joaogabrielmaia/repos?time_range=one_year&theme=bright_lights"/>
 </td>
 <td>
+<!-- Tempo de codificação (WakaTime) -->
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jgmcosta&theme=dark&layout=compact"/>
 </td>
 </tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
 </table>
+
+<!-- Cartões adicionais do perfil -->
 <table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
 <td>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joaogabrielmaia&theme=algolia"/>
 </td>
@@ -254,80 +264,93 @@ meu foco é seguir como arquiteto de software, unindo minha experiência com des
 <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=Joaogabrielmaia&theme=algolia&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
 </table>
 
 </div>
 </div>
+
+<!-- Visitas e seguidores -->
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Joaogabrielmaia"/>
+      </td>
+      <td align="center">
+        <img width="150" alt="Followers" src="https://img.shields.io/github/followers/Joaogabrielmaia?style=social"/>
+      </td>
+      <td align="center">
+        <img width="150" alt="Stars" src="https://img.shields.io/github/stars/Joaogabrielmaia?style=social"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<!-- Seção de métricas avançadas expansível -->
 <br>
 <div>
-
-<div>
-<table align="right">
-<tr>
-</tr> 
-</table>
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Joaogabrielmaia"/>
-<img alt="Followers" src="https://img.shields.io/github/followers/Joaogabrielmaia?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/Joaogabrielmaia?style=social"/>
-</div>
-
-</table>
-</div>
-<br></br>
-<div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
-</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais</summary>
 <br />
 
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+<td align="center" colspan="2">:octocat: GitHub Metrics</td>
 </tr>
 <tr>
-<td>
-<img width="400px" src="metrics.classic.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
+<td><img width="400px" src="metrics.classic.svg" alt="Metrics"></td>
+<td><img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendário de Contribuições"></td>
 </tr>
 <tr>
-<td>
-<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
-</td>
+<td><img width="400px" src="metrics.plugin.stars.svg" alt="Repositórios Favoritados"></td>
+<td><img width="400px" src="metrics.plugin.activity.svg" alt="Atividade"></td>
 </tr>
 <tr>
-<td>
-<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
+<td><img width="400px" src="metrics.plugin.people.followers.svg" alt="Seguidores"></td>
+<td><img width="400px" src="metrics.plugin.stargazers.svg" alt="Stargazers"></td>
 </tr>
 <tr>
-<td>
-<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.terminal.svg" alt="Metrics">
-</td>
+<td><img width="400px" src="metrics.plugin.topics.icons.svg" alt="Tópicos"></td>
+<td><img width="400px" src="metrics.terminal.svg" alt="Visual Terminal"></td>
 </tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
 </table>
 </div>
-
 </details>
 </div>
+
+<!-- Seção de Leituras Atuais -->
+  
+<div>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Leituras atuais:
+<br></br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://m.media-amazon.com/images/I/61E6iqKxU+L.jpg" width="160" height="240"/><br/><br/>
+<strong>Engenharia de Software Moderna</strong><br/>
+<em>Marco Túlio Valente</em>
+</td>
+<td align="center" width="220">
+<img src="https://m.media-amazon.com/images/I/61TTIqA77QL._AC_UF1000,1000_QL80_.jpg" width="160" height="240"/><br/><br/>
+<strong>O Programador Pragmático</strong><br/>
+<em>Andrew Hunt & David Thomas</em>
+</td>
+</tr>
+</table>
+<br/>
+<p>📚 Todas as leituras acima possuem resenhas escritas por mim disponíveis no repositório acima.</p>
+<br/><br/>
+<a href="https://github.com/resenhas" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20minhas%20resenhas-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+<br></br>
 
 <div>
 <details>
@@ -361,29 +384,6 @@ meu foco é seguir como arquiteto de software, unindo minha experiência com des
 
 
 <br>
-
-<div align="center">
- Alguns dos meus Projetos:
-  <br></br>
-
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
-<tr>
- <td align="center"><a href="" target="_blank"><img align="center"  src="https://maxrentcar.com.br/img/demo/sitereserva.png"/></a></td>
- <td align="center"><a href="" target="_blank"><img align="center"  src="https://img.freepik.com/free-vector/user-panel-business-dashboard_23-2148359901.jpg"/></a></td>
- <td align="center"><a href="" target="_blank"><img align="center"  src="https://img.freepik.com/psd-premium/ui-de-aplicativo-movel-de-entrega-de-comida-de-restaurante_279025-5.jpg"/></a></td>
-</tr>
-<tr>
- <td align="center">:movie_camera: <a href="" target="_blank">Tô de Carro</a></td>
- <td align="center">:movie_camera: <a href="" target="_blank">ERP Vortex</a></td>
- <td align="center">:movie_camera: <a href="" target="_blank">Restaurante Apetito</a></td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
 
 <br>
 
