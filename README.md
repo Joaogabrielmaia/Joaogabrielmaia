@@ -1,20 +1,25 @@
+<!--Header -->
+
 <div>
-  <img align="center" alt="Header" src="https://github.com/Joaogabrielmaia/Joaogabrielmaia/blob/main/Img/Header%20ReadMe.png"/>
+<img align="center" alt="Header" src="https://github.com/Joaogabrielmaia/Joaogabrielmaia/blob/main/Img/Header%20ReadMe.png"/>
 </div>
 
 <br><br>
+
+<!-- Seção de introdução -->
 
 <div align="justify">
-  <i><b>Olá</b> 👋, me chamo <code>João Gabriel</code>, tenho 20 anos e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br" target="_blank">PUC Minas</a>.  
-  Estudo programação desde 2023 e busco minha primeira oportunidade como desenvolvedor <code>Fullstack</code>.</i>
+<i><b>Olá</b> 👋, me chamo <code>João Gabriel</code>, tenho 20 anos e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br" target="_blank">PUC Minas</a>.  
+Estudo programação desde 2023 com foco em<code>Fullstack</code>.</i>
 </div>
 
 <br><br>
 
+<!-- Seção de minhas redes -->
 
 <div align="center">
-  Minhas Redes:
-  <br></br>
+Minhas Redes:
+<br></br>
 <table>
 <tr>
 <td><a href="https://github.com/Joaogabrielmaia" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
@@ -31,9 +36,7 @@
 </td>
 </tr> 
 </table>
-
 Sobre mim:
-
 <table>
 <tr>
  <td align="center" colspan="2"></td>
@@ -42,8 +45,8 @@ Sobre mim:
 <td>
 <div align="justify">
   
-## 🙋‍♂️ sobremim:
-me chamo joão gabriel, tenho 20 anos e sou de minas gerais. curso <a href="https://www.pucminas.br" target="_blank">engenharia de software na puc minas</a> (coração eucarístico) desde 2023. entrei na área com foco em front-end, mas logo fui me interessando também por back-end e banco de dados. desde então, estudo bastante por conta própria e estou sempre buscando aprender mais e aplicar esse conhecimento em projetos reais.
+## 🙋‍♂️ sobre Mim:
+me chamo joão gabriel, curso <a href="https://www.pucminas.br" target="_blank">engenharia de software na puc minas</a> desde 2023. entrei na área com foco em front-end, mas logo fui me interessando também por back-end e banco de dados. desde então, estudo bastante por conta própria e estou sempre buscando aprender mais e aplicar esse conhecimento em projetos reais.
 
 ## 🎓 Estudos:
 faço cursos na <a href="https://www.alura.com.br/" target="_blank">alura</a> e <a href="https://www.udemy.com/" target="_blank">udemy</a>, além das aulas da faculdade. resolvo exercícios diariamente no <a href="https://www.beecrowd.com.br/judge/pt/login" target="_blank">beecrowd</a> para treinar lógica de programação. no 4º período tive contato com arquitetura de software e padrões de projeto e isso me deu mais clareza sobre o caminho que quero seguir: ser arquiteto de software.
@@ -55,7 +58,7 @@ em 26/03/2025 recebi o prêmio de destaque acadêmico pelo melhor trabalho inter
 - gestão de vendas  
 - gráficos com dados reais
 
-## 📚 Rotinaestudos:
+## 📚 Rotina e studos:
 gosto de manter um ritmo de estudos constante, criando resumos dos conteúdos que vejo em aula ou nos cursos. atualmente estou lendo <a href="https://engsoftmoderna.info/" target="_blank">engenharia de software moderna</a>, do marco túlio valente, recomendado por um professor da faculdade.
 
 ## 💻 Tecnologias:
@@ -90,7 +93,6 @@ meu foco é seguir como arquiteto de software, unindo minha experiência com des
 - e-mail: <a href="mailto:maiajoaogabriel.contact@gmail.com" target="_blank">maiajoaogabriel.contact@gmail.com</a>  
 - linkedin: <a href="https://www.linkedin.com/in/joãogabrielmaia/" target="_blank">joãogabrielmaia</a>  
 - whatsapp: <a href="https://wa.me/5531975779600" target="_blank">clique aqui para conversar</a>
-
 </div>
 </td>
 <td>
@@ -198,31 +200,32 @@ Alguns dos meus Projetos:
 <br></br>
 </div>
 
-<!-- 📊 Seção de Atividade no GitHub -->
+<!-- Seção de Atividade no GitHub -->
 <div align="center">
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />
-Movimentação no GitHub:
+Atividade no GitHub:
 <br></br>
-
 <div align="center">
-<!-- Tabela com estatísticas principais -->
 <table>
 <tr>
 <td>
+  
 <!-- Estatísticas gerais -->
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Joaogabrielmaia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=algolia&locale=pt-br&card_width=480"/>
 </td>
 <td>
+  
 <!-- Linguagens mais usadas -->
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogabrielmaia&theme=algolia&locale=pt-br&langs_count=7"/>
 </td>
 <td>
+  
 <!-- Distribuição em gráfico de pizza -->
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogabrielmaia&layout=pie&theme=algolia&locale=pt-br"/>
 </td>
 </tr>
 </table>
-
+  
 <!-- Links para GitHub Wrapped e WakaTime -->
 <table>
 <tr>
@@ -231,16 +234,18 @@ Movimentação no GitHub:
 </tr>
 <tr>
 <td>
+  
 <!-- Tendências de repositórios -->
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Joaogabrielmaia/repos?time_range=one_year&theme=bright_lights"/>
 </td>
 <td>
+  
 <!-- Tempo de codificação (WakaTime) -->
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jgmcosta&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
-
+  
 <!-- Cartões adicionais do perfil -->
 <table>
 <td>
@@ -265,36 +270,34 @@ Movimentação no GitHub:
 </td>
 </tr>
 </table>
-
 </div>
 </div>
 
 <!-- Visitas e seguidores -->
+
 <br>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Joaogabrielmaia"/>
-      </td>
-      <td align="center">
-        <img width="150" alt="Followers" src="https://img.shields.io/github/followers/Joaogabrielmaia?style=social"/>
-      </td>
-      <td align="center">
-        <img width="150" alt="Stars" src="https://img.shields.io/github/stars/Joaogabrielmaia?style=social"/>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center">
+<img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Joaogabrielmaia"/>
+</td>
+<td align="center">
+<img width="150" alt="Followers" src="https://img.shields.io/github/followers/Joaogabrielmaia?style=social"/>
+</td>
+<td align="center">
+<img width="150" alt="Stars" src="https://img.shields.io/github/stars/Joaogabrielmaia?style=social"/>
+</td>
+</tr>
+</table>
 </div>
-
 
 <!-- Seção de métricas avançadas expansível -->
 <br>
-<div>
+<div align="center">
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais</summary>
 <br />
-
 <div align="center">
 <table>
 <tr>
@@ -322,11 +325,9 @@ Movimentação no GitHub:
 </div>
 
 <!-- Seção de Leituras Atuais -->
-  
-<div>
+<div align="center">
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Leituras atuais:
 <br></br>
-
 <div align="center">
 <table>
 <tr>
@@ -352,17 +353,17 @@ Movimentação no GitHub:
 
 <br></br>
 
-<div>
+<!-- Seção Spotify -->
+<div align="center">
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/>Minhas músicas</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313wrbnlkl4qyyrodytpfhdxdv2i" alt="Data Card for Spotify">
 </details>
 </div>
-
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
+<td align="center" colspan="3"></td>
 </tr> 
 <tr>
 <td>
@@ -372,22 +373,19 @@ Movimentação no GitHub:
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=313wrbnlkl4qyyrodytpfhdxdv2i&width=400px"/>
 </td>
 <td>
-
 <a href="https://lastfm-recently-played.vercel.app/api?user=JotaGemaia" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=JotaGemaia"/></a>
 </td>
 </tr>
 <tr>
- <td align="center" rowspan="3"></td>
+<td align="center" rowspan="3"></td>
 </tr> 
 </table>
 </div>
 
 
-<br>
-
-<br>
-
-<div align="center"> 
+<!-- Seção de Outras redes -->
+<div align="center">
+<p>Entre em contato comigo!</p>
 </table>
 <a href="www.linkedin.com/in/joãogabrielmaia" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:maiajoaogabriel.contact@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -404,10 +402,10 @@ Movimentação no GitHub:
 
 <br></br>
 
+<!-- Seção Footer -->
+
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004aad&width=435&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;" alt="Typing SVG" />
-
 <div align="center">
 <table>
 <td>
