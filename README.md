@@ -451,7 +451,7 @@ Minhas músicas
 <!-- Seção Footer -->
 
 <div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0C4DE&width=435&lines=👋+Foi+um+prazer+ter+voc%C3%AA+por+aqui!;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0C4DE&width=435&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;" alt="Typing SVG" />
 <div align="center">
 <table>
 <td>
