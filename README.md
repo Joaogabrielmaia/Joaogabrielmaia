@@ -359,12 +359,6 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
 </td>
 </tr>
 <tr>
-<td>
-<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
 </tr>
 </table>
 </div>
