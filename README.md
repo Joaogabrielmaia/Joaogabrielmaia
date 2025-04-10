@@ -270,8 +270,8 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
 <div align="center">
 <table>
 <tr>
-<td>:octocat: <a href="https://www.githubwrapped.io/Joaogabrielmaia" target="_blank">GitHub Wrapped</a></td>
-<td>:watch: <a href="https://wakatime.com/@jgmcosta">WakaTime</a></td>
+<!--<td>:octocat: <a href="https://www.githubwrapped.io/Joaogabrielmaia" target="_blank">GitHub Wrapped</a></td>
+<td>:watch: <a href="https://wakatime.com/@jgmcosta">WakaTime</a></td>-->
 </tr>
 <tr>
 <td>
