@@ -22,8 +22,6 @@ Estudo programação desde 2023 com foco em<code>Fullstack</code>.</i>
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/Joaogabrielmaia" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="mailto:maiajoaogabriel.contact@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531975779600" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
@@ -31,8 +29,6 @@ Estudo programação desde 2023 com foco em<code>Fullstack</code>.</i>
 <td><a href="https://www.instagram.com/jota.gab_/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/joãogabrielmaia/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr> 
 </table>
